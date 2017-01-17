@@ -2,7 +2,7 @@ body {
   padding-top: 200px;
   text-align: center;
   font-family: helvetica;
-  background: url("../background.jpg") 30%;
+  background: url("../background.jpg") 30% 30%;
   background-size: cover;
 }
 
