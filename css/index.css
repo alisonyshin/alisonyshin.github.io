@@ -8,9 +8,6 @@ body {
   color: white;
 }
 
-div{
-  padding-bottom:50px;
-}
 
 h1 {
   display: inline-block;
@@ -22,7 +19,7 @@ a {
 }
 
 img {
-    border-radius: 50%;
+    border-radius: 100%;
 }
 
 
