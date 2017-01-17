@@ -2,8 +2,10 @@ body {
   padding-top: 200px;
   text-align: center;
   font-family: helvetica;
-  background: url("../background.jpg") 30%;
-  background-size: cover;
+  background-color: black;
+  /*background: url("../background.jpg") 30%;
+  background-size: cover;*/
+  color: white;
 }
 
 h1 {
