@@ -25,8 +25,8 @@ a:hover {
     color: #6895b7;
 }
 
-a nonemails {
-  border: 1px solid;
+span linkbox{
+  border: 1px solid white;
 }
 
 img {
