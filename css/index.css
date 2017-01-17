@@ -25,6 +25,13 @@ a:hover {
     color: #6895b7;
 }
 
+#linkbox {
+  border:1px solid #b7fffd;
+  text-align:center;
+  padding-left:2px;
+  padding-right:2px;
+  align-content: center;
+}
 
 img {
     border-radius: 100%;
