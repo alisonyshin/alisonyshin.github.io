@@ -1,12 +1,18 @@
 body {
-  padding-top: 100px;
+  padding-top: 200px;
   text-align: center;
   font-family: helvetica;
-  background: url("../background.jpg") repeat;
-  background-size: cover;
+  background: url("../background.jpg");
+  background-repeat:no-repeat;
+  background-size:contain;
 }
 
 h1 {
   display: inline-block;
   color: white;
+}
+
+img {
+  width: 30%;
+  height: 30%;
 }
