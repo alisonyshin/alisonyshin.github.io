@@ -1,8 +1,8 @@
 body {
-  padding-top: 80px;
+  padding-top: 100px;
   text-align: center;
   font-family: helvetica;
-  background: url("personal-website/background.jpg") 50%;
+  background: url("../background.jpg") repeat;
   background-size: cover;
 }
 
