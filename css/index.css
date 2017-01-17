@@ -17,3 +17,6 @@ a {
   padding-right: 30px;
 }
 
+img {
+    border-radius: 30%;
+}
