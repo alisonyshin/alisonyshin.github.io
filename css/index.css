@@ -8,6 +8,10 @@ body {
   color: white;
 }
 
+div{
+  padding-bottom:50px;
+}
+
 h1 {
   display: inline-block;
   color: white;
@@ -18,5 +22,7 @@ a {
 }
 
 img {
-    border-radius: 30%;
+    border-radius: 50%;
 }
+
+
