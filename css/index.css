@@ -16,3 +16,7 @@ img {
   width: 30%;
   height: 30%;
 }
+
+a {
+  padding-right: 30px;
+}
