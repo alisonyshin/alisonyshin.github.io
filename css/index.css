@@ -24,9 +24,13 @@ a:hover {
     color: #6895b7;
 }
 
-.links{
+.linksdiv{
   padding-top:30px;
-  border: 1px solid white;
+  text-align: center;
+}
+
+.links {
+  padding: 0 10px;
 }
 
 img {
